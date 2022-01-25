@@ -1,0 +1,51 @@
+State;City;Capital;Since;Area (mi2);Proper;MSA/µSA;CSA;Rank in state
+ Alabama;Montgomery;1846;159.8;199,000;386,047;476,207;3
+ Alaska;Juneau;1906;2716.7;32,255;32,255;;3
+ Arizona;Phoenix;1912;517.6;1,597,000;4,845,832;4,899,104;1
+ Arkansas;Little Rock;1821;116.2;206,000;748,031;912,604;1
+ California;Sacramento;1854;97.9;516,000;2,397,382;2,680,831;6
+ Colorado;Denver;1867;153.3;722,000;2,963,821;3,623,560;1
+ Connecticut;Hartford;1875;17.3;116,000;1,213,531;1,482,086;4
+ Delaware;Dover;1777;22.4;36,000;181,851;7,379,700;2
+ Florida;Tallahassee;1824;95.7;201,000;384,298;;8
+ Georgia;Atlanta;1868;133.5;503,000;6,089,815;6,930,423;1
+ Hawaii;Honolulu;1845;68.4;345,000;1,016,508;;1
+ Idaho;Boise;1865;63.8;240,000;764,718;850,341;1
+ Illinois;Springfield;1837;54.0;107,000;208,640;308,523;7
+ Indiana;Indianapolis;1825;361.5;893,000;2,111,040;2,492,514;1
+ Iowa;Des Moines;1857;75.8;213,000;709,466;890,322;1
+ Kansas;Topeka;1856;56.0;123,000;233,152;;5
+ Kentucky;Frankfort;1792;14.7;28,602;75,393;746,045;14
+ Louisiana;Baton Rouge;1880;76.8;223,000;870,569;;2
+ Maine;Augusta;1832;55.4;18,899;123,642;;10
+ Maryland;Annapolis;1694;6.73;46,000;2,844,510;9,973,383;7
+ Massachusetts;Boston;1630;89.6;617,000;4,941,632;8,466,186;1
+ Michigan;Lansing;1847;35.0;106,000;541,297;;5
+ Minnesota;Saint Paul;1849;52.8;312,000;3,690,261;4,078,788;2
+ Mississippi;Jackson;1821;104.9;159,000;591,978;671,607;1
+ Missouri;Jefferson City;1826;27.3;42,000;150,309;;15
+ Montana;Helena;1875;14.0;32,091;83,058;;6
+ Nebraska;Lincoln;1867;74.6;287,000;340,217;361,921;2
+ Nevada;Carson City;1861;143.4;54,000;58,639;657,958;6
+ New Hampshire;Concord;1808;64.3;48,000;153,808;8,466,186;3
+ New Jersey;Trenton;1784;7.66;96,000;387,340;23,582,649;10
+ New Mexico;Santa Fe;1610;37.3;84,000;154,823;1,162,523;4
+ New York;Albany;1797;21.4;103,000;899,262;1,190,727;6
+ North Carolina;Raleigh;1792;114.6;474,000;1,413,982;2,106,463;2
+ North Dakota;Bismarck;1883;26.9;69,000;133,626;;2
+ Ohio;Columbus;1816;210.3;910,000;2,138,926;2,544,048;1
+ Oklahoma;Oklahoma City;1910;620.3;666,000;1,425,695;1,498,149;1
+ Oregon;Salem;1855;45.7;168,000;433,353;3,280,736;3
+ Pennsylvania;Harrisburg;1812;8.11;46,000;591,712;1,295,259;9
+ Rhode Island;Providence;1900;18.5;203,000;1,676,579;8,466,186;1
+ South Carolina;Columbia;1786;125.2;142,000;829,470;951,412;2
+ South Dakota;Pierre;1889;13.0;14,091;20,745;;9
+ Tennessee;Nashville;1826;525.9;695,000;1,989,519;2,118,233;1
+ Texas;Austin;1839;305.1;948,000;2,283,371;;4
+ Utah;Salt Lake City;1858;109.1;204,000;1,257,936;2,701,129;1
+ Vermont;Montpelier;1805;10.2;8,074;59,807;285,369;6
+ Virginia;Richmond;1780;60.1;230,000;1,314,434;;4
+ Washington;Olympia;1853;16.7;48,000;294,793;4,953,421;23
+ West Virginia;Charleston;1885;31.6;41,000;258,859;779,969;1
+ Wisconsin;Madison;1838;68.7;262,000;680,796;910,246;2
+ Wyoming;Cheyenne;1869;21.1;57,000;100,512;;1
